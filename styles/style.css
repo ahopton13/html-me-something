@@ -1,0 +1,15 @@
+.header-style {
+    background: blue;
+    width: 100%;
+    padding: 50px;
+    margin: 10px;
+}
+
+#title {
+    text-align: center;
+  }
+
+
+p {
+    font-weight: bold;
+}
